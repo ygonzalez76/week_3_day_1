@@ -238,16 +238,23 @@ print("hello!" + name)
 num1 = int(input("enter a number: "))
 num2 = int(input("enter another number: "))
 # # print out a statement where you:
-# # add them together
+# add them together
 print(num1 + num2)
-# #multiply
-print(num1 * num2)
-# # find the max number
-print(max(num1, num2))
-# # find the remainder of the numbers
+#multiply
+
+# find the max number
+
+# find the remainder of the numbers
+
+#round one number
+
+num1 = int(input("enter a number: "))
+num2 = int(input("enter another number: "))
+print(num1 + num2)
+print(num1 - num2)
+print(num1*num2)
 print(num1%num2)
-# #round one number
-print(round(num1))
+print(num1/num2)
 
 
 
